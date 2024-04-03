@@ -1,5 +1,5 @@
 # Aprende a usar Anthtopic-API (Claude 3) desde python 🤖
-Aprende a usar el API de Gemini Pro con python de una manera sencilla y practica para generacion de texto y reconocimiento de imagenes
+Aprende a usar el API de Claude 3 con python de una manera sencilla y practica para generacion de texto y reconocimiento de imagenes
 
 
 ## Tecnologias
@@ -16,4 +16,3 @@ Aprende a usar el API de Gemini Pro con python de una manera sencilla y practica
 ## Youtube 📺
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
-https://www.youtube.com/watch?v=l59tJpeV0WQ&t=9s
